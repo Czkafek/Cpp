@@ -1,0 +1,4 @@
+Nazwa: Wiktor
+Hasło: 123Wiktor!
+Wiek: 15
+Licznik: 11
