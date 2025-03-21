@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programowanie\\cpp\\Szkolacpp\\FastExerciseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{993AA17B-2D85-41C3-BDA4-553644FF3954}|FastExerciseApp.vcxproj|D:\\Programowanie\\cpp\\Szkolacpp\\FastExerciseApp\\FastExerciseApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{993AA17B-2D85-41C3-BDA4-553644FF3954}|FastExerciseApp.vcxproj|solutionrelative:FastExerciseApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FastExerciseApp.cpp",
+              "DocumentMoniker": "D:\\Programowanie\\cpp\\Szkolacpp\\FastExerciseApp\\FastExerciseApp.cpp",
+              "RelativeDocumentMoniker": "FastExerciseApp.cpp",
+              "ToolTip": "D:\\Programowanie\\cpp\\Szkolacpp\\FastExerciseApp\\FastExerciseApp.cpp",
+              "RelativeToolTip": "FastExerciseApp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-21T20:38:48.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
